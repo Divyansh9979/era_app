@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74609319086",
+    "firebase_url": "https://era-app-46fb2.firebaseio.com",
+    "project_id": "era-app-46fb2",
+    "storage_bucket": "era-app-46fb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74609319086:android:0c369811772baabdcd213f",
+        "android_client_info": {
+          "package_name": "com.example.era_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74609319086-6mc4uf2h6c3plusem74lgqic6rboibfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWGnoumBOAmTCOkQHADJpWUB9d1OxJjis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74609319086-6mc4uf2h6c3plusem74lgqic6rboibfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
